@@ -1,2 +1,2 @@
 # TP-P6
-création d'un server Node et d'une API Angular / Express
+création d'un server Node et d'une API Express
